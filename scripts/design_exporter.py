@@ -427,9 +427,21 @@ class DesignExporter:
         # Generate unique design ID
         design_id = options.get('design_id', f"scraped_{uuid.uuid4().hex[:8]}")
         
-        # Extract banner dimensions
-        banner_width = metadata.get('canvas', {}).get('width', 800)
-        banner_height = metadata.get('canvas', {}).get('height', 600)
+        # Extract banner dimensions from metadata size field or canvas
+        banner_size = metadata.get('size', '800x600')  # e.g., "200x200"
+        if 'x' in banner_size:
+            try:
+                width_str, height_str = banner_size.split('x')
+                banner_width = int(width_str)
+                banner_height = int(height_str)
+            except (ValueError, AttributeError):
+                # Fallback to canvas or defaults
+                banner_width = metadata.get('canvas', {}).get('width', 800)
+                banner_height = metadata.get('canvas', {}).get('height', 600)
+        else:
+            # Fallback to canvas or defaults
+            banner_width = metadata.get('canvas', {}).get('width', 800)
+            banner_height = metadata.get('canvas', {}).get('height', 600)
         
         # Create base Design object structure
         design_object = {
