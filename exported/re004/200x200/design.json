@@ -1,0 +1,1346 @@
+{
+  "id": null,
+  "name": "re004",
+  "title": "re004",
+  "description": "Scraped from unknown source",
+  "width": 800,
+  "height": 600,
+  "userId": "scraper",
+  "projectId": null,
+  "isPublic": false,
+  "createdAt": "2025-08-05T11:25:01.619933Z",
+  "updatedAt": "2025-08-05T11:25:01.619958Z",
+  "syncStatus": "synced",
+  "isTemporary": false,
+  "data": {
+    "backgroundColor": "#ffffff",
+    "background": {
+      "type": "solid",
+      "color": "#ffffff"
+    },
+    "animationSettings": [
+      {
+        "delay": "0.4s",
+        "duration": "0.4s",
+        "elementId": "Images",
+        "fillMode": "forwards",
+        "iterationCount": "1",
+        "name": "gwd-gen-1valgwdanimation_gwd-keyframes_start",
+        "timingFunction": "linear"
+      },
+      {
+        "delay": "0s",
+        "duration": "8.5s",
+        "elementId": "layer-5",
+        "fillMode": "forwards",
+        "iterationCount": "1",
+        "name": "gwd-gen-xpoegwdanimation_gwd-keyframes_loop",
+        "timingFunction": "linear"
+      },
+      {
+        "delay": "0.2s",
+        "duration": "0.4s",
+        "elementId": "Shape-outline",
+        "fillMode": "forwards",
+        "iterationCount": "1",
+        "name": "gwd-gen-paa0gwdanimation_gwd-keyframes_start",
+        "timingFunction": "linear"
+      },
+      {
+        "delay": "0s",
+        "duration": "0.4s",
+        "elementId": "Shape",
+        "fillMode": "forwards",
+        "iterationCount": "1",
+        "name": "gwd-gen-khh8gwdanimation_gwd-keyframes_start",
+        "timingFunction": "linear"
+      },
+      {
+        "delay": "0.7s",
+        "duration": "1.3s",
+        "elementId": "Heading1",
+        "fillMode": "forwards",
+        "iterationCount": "1",
+        "name": "gwd-gen-1bycgwdanimation_gwd-keyframes_start",
+        "timingFunction": "linear"
+      },
+      {
+        "delay": "1s",
+        "duration": "0.3s",
+        "elementId": "Points-shape",
+        "fillMode": "forwards",
+        "iterationCount": "1",
+        "name": "gwd-gen-1c6wgwdanimation_gwd-keyframes_start",
+        "timingFunction": "linear"
+      },
+      {
+        "delay": "1.2s",
+        "duration": "0.3s",
+        "elementId": "Points",
+        "fillMode": "forwards",
+        "iterationCount": "1",
+        "name": "gwd-gen-ny7ugwdanimation_gwd-keyframes_start",
+        "timingFunction": "linear"
+      },
+      {
+        "delay": "0s",
+        "duration": "8.5s",
+        "elementId": "layer-17",
+        "fillMode": "forwards",
+        "iterationCount": "1",
+        "name": "gwd-gen-1i3cgwdanimation_gwd-keyframes_loop",
+        "timingFunction": "linear"
+      },
+      {
+        "delay": "1.5s",
+        "duration": "0.3s",
+        "elementId": "Tagline",
+        "fillMode": "forwards",
+        "iterationCount": "1",
+        "name": "gwd-gen-18k5gwdanimation_gwd-keyframes_start",
+        "timingFunction": "linear"
+      },
+      {
+        "delay": "1.5s",
+        "duration": "0.3s",
+        "elementId": "Logo",
+        "fillMode": "forwards",
+        "iterationCount": "1",
+        "name": "gwd-gen-1bbigwdanimation_gwd-keyframes_start",
+        "timingFunction": "linear"
+      },
+      {
+        "delay": "1.7s",
+        "duration": "0.3s",
+        "elementId": "Call-To-Action",
+        "fillMode": "forwards",
+        "iterationCount": "1",
+        "name": "gwd-gen-iglogwdanimation_gwd-keyframes_start",
+        "timingFunction": "linear"
+      }
+    ],
+    "customProperties": {
+      "sourceUrl": null,
+      "scrapedAt": "2025-08-05 01:12:07",
+      "bannerType": "html5",
+      "originalSize": "200x200"
+    },
+    "globalStyles": {
+      "keyframes": {
+        "gwd-empty-animation": {
+          "name": "gwd-empty-animation",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0.001;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 0;"
+            }
+          ]
+        },
+        "gwd-empty-animation_loop": {
+          "name": "gwd-empty-animation_loop",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0.001;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 0;"
+            }
+          ]
+        },
+        "gwd-empty-animation_start": {
+          "name": "gwd-empty-animation_start",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0.001;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 0;"
+            }
+          ]
+        },
+        "gwd-gen-10qmgwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-10qmgwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "92.59%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-10qmgwdanimation_gwd-keyframes_loop": {
+          "name": "gwd-gen-10qmgwdanimation_gwd-keyframes_loop",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "92.59%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-123egwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-123egwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "43.86%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "47.37%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "96.49%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-123egwdanimation_gwd-keyframes_loop": {
+          "name": "gwd-gen-123egwdanimation_gwd-keyframes_loop",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "43.86%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "47.37%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "96.49%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-18k5gwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-18k5gwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "top: 147px; opacity: 0; left: 6px; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "100%",
+              "style": "top: 120px; opacity: 1; left: 6px; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-18k5gwdanimation_gwd-keyframes_start": {
+          "name": "gwd-gen-18k5gwdanimation_gwd-keyframes_start",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "top: 147px; opacity: 0; left: 6px; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "100%",
+              "style": "top: 120px; opacity: 1; left: 6px; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-1bbigwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-1bbigwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "top: -26px; left: 25px; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "100%",
+              "style": "top: 28px; left: 25px; animation-timing-function: ease-out;"
+            }
+          ]
+        },
+        "gwd-gen-1bbigwdanimation_gwd-keyframes_start": {
+          "name": "gwd-gen-1bbigwdanimation_gwd-keyframes_start",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "top: -26px; left: 25px; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "100%",
+              "style": "top: 28px; left: 25px; animation-timing-function: ease-out;"
+            }
+          ]
+        },
+        "gwd-gen-1bycgwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-1bycgwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "left: -128px; top: 58px; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "30.77%",
+              "style": "left: 6px; top: 58px; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "84.62%",
+              "style": "left: 6px; top: 58px; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "100%",
+              "style": "left: 6px; top: 58px; animation-timing-function: ease-out;"
+            }
+          ]
+        },
+        "gwd-gen-1bycgwdanimation_gwd-keyframes_start": {
+          "name": "gwd-gen-1bycgwdanimation_gwd-keyframes_start",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "left: -128px; top: 58px; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "30.77%",
+              "style": "left: 6px; top: 58px; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "84.62%",
+              "style": "left: 6px; top: 58px; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "100%",
+              "style": "left: 6px; top: 58px; animation-timing-function: ease-out;"
+            }
+          ]
+        },
+        "gwd-gen-1c6wgwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-1c6wgwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0; transform: translate3d(0px, -46px, 0px); animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 0.9; transform: translate3d(-53px, -46px, 0px); animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-1c6wgwdanimation_gwd-keyframes_start": {
+          "name": "gwd-gen-1c6wgwdanimation_gwd-keyframes_start",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0; transform: translate3d(0px, -46px, 0px); animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 0.9; transform: translate3d(-53px, -46px, 0px); animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-1i3cgwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-1i3cgwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "64.71%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "67.06%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-1i3cgwdanimation_gwd-keyframes_loop": {
+          "name": "gwd-gen-1i3cgwdanimation_gwd-keyframes_loop",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "64.71%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "67.06%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-1mi2gwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-1mi2gwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "92.59%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-1mi2gwdanimation_gwd-keyframes_loop": {
+          "name": "gwd-gen-1mi2gwdanimation_gwd-keyframes_loop",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "92.59%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-1valgwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-1valgwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-1valgwdanimation_gwd-keyframes_start": {
+          "name": "gwd-gen-1valgwdanimation_gwd-keyframes_start",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-iglogwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-iglogwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "left: -107px; top: 152px; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "100%",
+              "style": "left: 18px; top: 152px; animation-timing-function: ease-out;"
+            }
+          ]
+        },
+        "gwd-gen-iglogwdanimation_gwd-keyframes_start": {
+          "name": "gwd-gen-iglogwdanimation_gwd-keyframes_start",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "left: -107px; top: 152px; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "100%",
+              "style": "left: 18px; top: 152px; animation-timing-function: ease-out;"
+            }
+          ]
+        },
+        "gwd-gen-khh8gwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-khh8gwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "transform: translate3d(0px, 0px, 0px); opacity: 0; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "100%",
+              "style": "transform: translate3d(67px, 0px, 0px); opacity: 0.9; animation-timing-function: ease-out;"
+            }
+          ]
+        },
+        "gwd-gen-khh8gwdanimation_gwd-keyframes_start": {
+          "name": "gwd-gen-khh8gwdanimation_gwd-keyframes_start",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "transform: translate3d(0px, 0px, 0px); opacity: 0; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "100%",
+              "style": "transform: translate3d(67px, 0px, 0px); opacity: 0.9; animation-timing-function: ease-out;"
+            }
+          ]
+        },
+        "gwd-gen-ny7ugwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-ny7ugwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0; transform: translate3d(-69px, -45px, 0px); width: 85px; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 1; transform: translate3d(-69px, -46px, 0px); width: 85px; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-ny7ugwdanimation_gwd-keyframes_start": {
+          "name": "gwd-gen-ny7ugwdanimation_gwd-keyframes_start",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0; transform: translate3d(-69px, -45px, 0px); width: 85px; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 1; transform: translate3d(-69px, -46px, 0px); width: 85px; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-olingwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-olingwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "43.86%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "47.37%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "96.49%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-olingwdanimation_gwd-keyframes_loop": {
+          "name": "gwd-gen-olingwdanimation_gwd-keyframes_loop",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "43.86%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "47.37%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "96.49%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-paa0gwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-paa0gwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "transform: translate3d(0px, 0px, 0px); opacity: 0; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "100%",
+              "style": "transform: translate3d(49px, 0px, 0px); opacity: 1; animation-timing-function: ease-out;"
+            }
+          ]
+        },
+        "gwd-gen-paa0gwdanimation_gwd-keyframes_start": {
+          "name": "gwd-gen-paa0gwdanimation_gwd-keyframes_start",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "transform: translate3d(0px, 0px, 0px); opacity: 0; animation-timing-function: ease-out;"
+            },
+            {
+              "keyText": "100%",
+              "style": "transform: translate3d(49px, 0px, 0px); opacity: 1; animation-timing-function: ease-out;"
+            }
+          ]
+        },
+        "gwd-gen-xpoegwdanimation_gwd-keyframes": {
+          "name": "gwd-gen-xpoegwdanimation_gwd-keyframes",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "64.71%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "67.06%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            }
+          ]
+        },
+        "gwd-gen-xpoegwdanimation_gwd-keyframes_loop": {
+          "name": "gwd-gen-xpoegwdanimation_gwd-keyframes_loop",
+          "rules": [
+            {
+              "keyText": "0%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "64.71%",
+              "style": "opacity: 0; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "67.06%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            },
+            {
+              "keyText": "100%",
+              "style": "opacity: 1; animation-timing-function: linear;"
+            }
+          ]
+        }
+      }
+    },
+    "gridSettings": {
+      "gridSize": 20,
+      "showGrid": false,
+      "snapToGrid": false,
+      "snapToObjects": false,
+      "snapTolerance": 5
+    },
+    "viewportSettings": {
+      "zoom": 1,
+      "panX": 0,
+      "panY": 0
+    }
+  },
+  "layers": [
+    {
+      "id": "layer-2",
+      "type": "image",
+      "name": "content-image",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 200.0,
+        "height": 200.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "src": "assets/b7f8e0e61e06.jpg",
+        "alt": null,
+        "objectFit": "contain",
+        "filters": {},
+        "border": {},
+        "shadow": {},
+        "animations": []
+      }
+    },
+    {
+      "id": "layer-4",
+      "type": "image",
+      "name": "content-image",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 200.0,
+        "height": 200.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "src": "assets/97b1ab636243.jpg",
+        "alt": null,
+        "objectFit": "contain",
+        "filters": {},
+        "border": {},
+        "shadow": {},
+        "animations": []
+      }
+    },
+    {
+      "id": "layer-5",
+      "type": "image",
+      "name": "content-image",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 200.0,
+        "height": 200.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "src": "assets/4e7c0b62ce9c.jpg",
+        "alt": null,
+        "objectFit": "contain",
+        "filters": {},
+        "border": {},
+        "shadow": {},
+        "animations": [
+          {
+            "delay": "0s",
+            "duration": "8.5s",
+            "fillMode": "forwards",
+            "iterationCount": "1",
+            "name": "gwd-gen-xpoegwdanimation_gwd-keyframes_loop",
+            "timingFunction": "linear"
+          }
+        ]
+      }
+    },
+    {
+      "id": "layer-6",
+      "type": "image",
+      "name": "content-image",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 200.0,
+        "height": 200.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "src": "assets/4e7c0b62ce9c.jpg",
+        "alt": null,
+        "objectFit": "contain",
+        "filters": {},
+        "border": {},
+        "shadow": {},
+        "animations": []
+      }
+    },
+    {
+      "id": "Shape-outline",
+      "type": "image",
+      "name": "content-image",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 96.0,
+        "y": 0.0,
+        "width": 30.0,
+        "height": 200.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "src": "assets/2c075b23e9c5.png",
+        "alt": null,
+        "objectFit": "contain",
+        "filters": {},
+        "border": {},
+        "shadow": {},
+        "animations": [
+          {
+            "delay": "0.2s",
+            "duration": "0.4s",
+            "fillMode": "forwards",
+            "iterationCount": "1",
+            "name": "gwd-gen-paa0gwdanimation_gwd-keyframes_start",
+            "timingFunction": "linear"
+          }
+        ]
+      }
+    },
+    {
+      "id": "layer-8",
+      "type": "image",
+      "name": "content-image",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 96.0,
+        "y": 0.0,
+        "width": 30.0,
+        "height": 200.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "src": "assets/2c075b23e9c5.png",
+        "alt": null,
+        "objectFit": "contain",
+        "filters": {},
+        "border": {},
+        "shadow": {},
+        "animations": []
+      }
+    },
+    {
+      "id": "Shape",
+      "type": "image",
+      "name": "content-image",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 126.0,
+        "height": 200.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 0.9
+      },
+      "properties": {
+        "src": "assets/d954d33cbeec.png",
+        "alt": null,
+        "objectFit": "contain",
+        "filters": {},
+        "border": {},
+        "shadow": {},
+        "animations": [
+          {
+            "delay": "0s",
+            "duration": "0.4s",
+            "fillMode": "forwards",
+            "iterationCount": "1",
+            "name": "gwd-gen-khh8gwdanimation_gwd-keyframes_start",
+            "timingFunction": "linear"
+          }
+        ]
+      }
+    },
+    {
+      "id": "layer-10",
+      "type": "image",
+      "name": "content-image",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 126.0,
+        "height": 200.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "src": "assets/d954d33cbeec.png",
+        "alt": null,
+        "objectFit": "contain",
+        "filters": {},
+        "border": {},
+        "shadow": {},
+        "animations": []
+      }
+    },
+    {
+      "id": "layer-20",
+      "type": "image",
+      "name": "content-image",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 25.0,
+        "y": 28.0,
+        "width": 73.0,
+        "height": 20.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "src": "assets/166b0ef4183e.png",
+        "alt": null,
+        "objectFit": "contain",
+        "filters": {},
+        "border": {},
+        "shadow": {},
+        "animations": []
+      }
+    },
+    {
+      "id": "Points-shape",
+      "type": "image",
+      "name": "content-image",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 112.0,
+        "y": 183.0,
+        "width": 88.0,
+        "height": 17.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 0.9
+      },
+      "properties": {
+        "src": "assets/4c411943bbf5.png",
+        "alt": null,
+        "objectFit": "contain",
+        "filters": {},
+        "border": {},
+        "shadow": {},
+        "animations": [
+          {
+            "delay": "1s",
+            "duration": "0.3s",
+            "fillMode": "forwards",
+            "iterationCount": "1",
+            "name": "gwd-gen-1c6wgwdanimation_gwd-keyframes_start",
+            "timingFunction": "linear"
+          }
+        ]
+      }
+    },
+    {
+      "id": "layer-13",
+      "type": "image",
+      "name": "content-image",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 112.0,
+        "y": 183.0,
+        "width": 88.0,
+        "height": 17.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "src": "assets/4c411943bbf5.png",
+        "alt": null,
+        "objectFit": "contain",
+        "filters": {},
+        "border": {},
+        "shadow": {},
+        "animations": []
+      }
+    },
+    {
+      "id": "layer-22",
+      "type": "text",
+      "name": "body-text",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 18.0,
+        "y": 157.0,
+        "width": 86.0,
+        "height": 13.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "text": "LEARN MORE",
+        "fontFamily": "Roboto",
+        "fontSize": 11.0,
+        "fontWeight": "500",
+        "fontStyle": "normal",
+        "color": "rgb(0, 0, 0)",
+        "textAlign": "center",
+        "textDecoration": "none",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "background": {},
+        "border": {},
+        "shadow": {},
+        "animations": []
+      }
+    },
+    {
+      "id": "layer-17",
+      "type": "text",
+      "name": "body-text",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 120.0,
+        "y": 185.0,
+        "width": 85.0,
+        "height": 13.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "text": "Bathroom",
+        "fontFamily": "Roboto",
+        "fontSize": 11.0,
+        "fontWeight": "400",
+        "fontStyle": "normal",
+        "color": "rgb(0, 0, 0)",
+        "textAlign": "center",
+        "textDecoration": "none",
+        "lineHeight": 1.2,
+        "letterSpacing": 0,
+        "background": {},
+        "border": {},
+        "shadow": {},
+        "animations": [
+          {
+            "delay": "0s",
+            "duration": "8.5s",
+            "fillMode": "forwards",
+            "iterationCount": "1",
+            "name": "gwd-gen-1i3cgwdanimation_gwd-keyframes_loop",
+            "timingFunction": "linear"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Heading1",
+      "type": "heading",
+      "name": "heading",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 6.0,
+        "y": 58.0,
+        "width": 110.0,
+        "height": 52.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "animations": [
+          {
+            "delay": "0.7s",
+            "duration": "1.3s",
+            "fillMode": "forwards",
+            "iterationCount": "1",
+            "name": "gwd-gen-1bycgwdanimation_gwd-keyframes_start",
+            "timingFunction": "linear"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Tagline",
+      "type": "heading",
+      "name": "heading",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 6.0,
+        "y": 120.0,
+        "width": 110.0,
+        "height": 24.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "animations": [
+          {
+            "delay": "1.5s",
+            "duration": "0.3s",
+            "fillMode": "forwards",
+            "iterationCount": "1",
+            "name": "gwd-gen-18k5gwdanimation_gwd-keyframes_start",
+            "timingFunction": "linear"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Logo",
+      "type": "image",
+      "name": "logo",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 25.0,
+        "y": 28.0,
+        "width": 73.0,
+        "height": 20.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "src": "assets/166b0ef4183e.png",
+        "alt": null,
+        "objectFit": "contain",
+        "filters": {},
+        "border": {},
+        "shadow": {},
+        "animations": [
+          {
+            "delay": "1.5s",
+            "duration": "0.3s",
+            "fillMode": "forwards",
+            "iterationCount": "1",
+            "name": "gwd-gen-1bbigwdanimation_gwd-keyframes_start",
+            "timingFunction": "linear"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Images",
+      "type": "interactive",
+      "name": "call-to-action",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 200.0,
+        "height": 200.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "animations": [
+          {
+            "delay": "0.4s",
+            "duration": "0.4s",
+            "fillMode": "forwards",
+            "iterationCount": "1",
+            "name": "gwd-gen-1valgwdanimation_gwd-keyframes_start",
+            "timingFunction": "linear"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Call-To-Action",
+      "type": "interactive",
+      "name": "call-to-action",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 18.0,
+        "y": 152.0,
+        "width": 86.0,
+        "height": 24.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "animations": [
+          {
+            "delay": "1.7s",
+            "duration": "0.3s",
+            "fillMode": "forwards",
+            "iterationCount": "1",
+            "name": "gwd-gen-iglogwdanimation_gwd-keyframes_start",
+            "timingFunction": "linear"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Points",
+      "type": "interactive",
+      "name": "call-to-action",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 120.0,
+        "y": 185.0,
+        "width": 85.0,
+        "height": 13.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "animations": [
+          {
+            "delay": "1.2s",
+            "duration": "0.3s",
+            "fillMode": "forwards",
+            "iterationCount": "1",
+            "name": "gwd-gen-ny7ugwdanimation_gwd-keyframes_start",
+            "timingFunction": "linear"
+          }
+        ]
+      }
+    },
+    {
+      "id": "TapArea",
+      "type": "interaction",
+      "name": "clickable-area",
+      "visible": true,
+      "locked": false,
+      "zIndex": 0,
+      "syncStatus": "synced",
+      "isTemporary": false,
+      "transform": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 200.0,
+        "height": 200.0,
+        "rotation": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "opacity": 1.0
+      },
+      "properties": {
+        "animations": []
+      }
+    }
+  ],
+  "thumbnail": "assets/screenshot.png"
+}
